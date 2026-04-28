@@ -1,0 +1,11 @@
+ApplicantIncome,CoapplicantIncome,LoanAmount,Credit_History,Education,Self_Employed,Loan_Status
+5000,0,120,1,Graduate,No,Y
+3000,1500,100,1,Graduate,No,Y
+2500,0,80,0,Not Graduate,Yes,N
+7000,2000,200,1,Graduate,No,Y
+4000,1000,150,0,Graduate,No,N
+6000,0,160,1,Graduate,Yes,Y
+2000,500,70,0,Not Graduate,No,N
+8000,3000,250,1,Graduate,No,Y
+3500,0,90,1,Graduate,No,Y
+2800,800,110,0,Not Graduate,Yes,N

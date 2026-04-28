@@ -62,6 +62,3 @@ Then open:
 ```text
 http://127.0.0.1:8000/docs
 ```
-
-## Resume Bullet
-Built a loan approval prediction system using Python, Pandas, Scikit-learn, and FastAPI, including data preprocessing, model training, evaluation, and REST API deployment for real-time predictions.
